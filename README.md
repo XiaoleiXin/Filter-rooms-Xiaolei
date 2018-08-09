@@ -2,7 +2,7 @@
 
 > Design microservices system architecture to scale
 
-## Demo
+## Stress Testing Result
 
 ![alt text](https://i.imgur.com/GtrLVRf.png)
 
