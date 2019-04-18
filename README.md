@@ -2,12 +2,6 @@
 
 > Design microservices system architecture to scale
 
-## Stress Testing Result
-
-![alt text](https://i.imgur.com/GtrLVRf.png)
-
-![alt text](https://i.imgur.com/CT2Jly1.png)
-
 ## Usage
 
 - Optimize latency from 33000 ms to 2 ms on PostgreSQL for over 60 million rows using indexing 
@@ -18,6 +12,12 @@
 
 - Achieved over 75% test coverage using Mocha/Chai for smoother project updates, adhering to test-driven development
 
+
+## Stress Testing Result
+
+![alt text](https://i.imgur.com/GtrLVRf.png)
+
+![alt text](https://i.imgur.com/CT2Jly1.png)
 
 
 ## Built With
